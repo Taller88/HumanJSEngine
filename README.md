@@ -4,6 +4,7 @@ JS의 특징과 동작원리를 이해하고 공부하는 respository
 
 
 [1-1] 함수 선언과 함수 호출의 차이 
+__
 https://www.youtube.com/watch?v=NS1cIsWlFGI
 
 ```javascript
@@ -30,7 +31,7 @@ console.log(result);
 
 
 [1-3] 호출 스택 이해하기 
-
+__
 
 말그대로 호출 스택은 함수가 호출되었을때 호출 스택에 함수를 담는다.
 쉽게 생각해서 위에서 아래로 선언부는 생략 호출되었을 때만 호출 스택에 담고 실행한다. 
