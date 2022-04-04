@@ -27,3 +27,15 @@ const result = calculator(add1, 3, 5);
 console.log(result);
 
 ```
+
+
+[1-2] 호출 스택 이해하기 
+
+말그대로 호출 스택은 함수가 호출되었을때 호출 스택에 함수를 담는다.
+쉽게 생각해서 위에서 아래로 선언부는 생략 호출되었을 때만 호출 스택에 담고 실행한다. 
+
+
+
+![image](https://user-images.githubusercontent.com/48818574/161561989-1d91f16a-2a70-4b11-a853-a5c524848f59.png)
+
+
